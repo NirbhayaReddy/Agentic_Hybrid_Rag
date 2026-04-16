@@ -263,15 +263,6 @@ docker compose down
 
 Data persists in Docker volumes — papers and indexes are saved between restarts.
 
----
-
-## Not Yet Implemented
-
-- Telegram bot (code exists in `src/services/telegram/` but not configured)
-- Langfuse observability (code exists but disabled — set `LANGFUSE__ENABLED=true` to enable)
-- Web UI / daily digest view
-
----
 
 ## License
 
